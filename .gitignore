@@ -1,0 +1,3 @@
+# Ignore compiled executables
+01_process_management/*
+!01_process_management/*.c
