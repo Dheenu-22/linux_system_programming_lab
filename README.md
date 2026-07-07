@@ -1,18 +1,28 @@
 # Linux System Programming Lab
 
-This repository contains Linux System Programming laboratory programs implemented in C.
+This repository contains my Linux System Programming laboratory programs implemented in C.
 
-## Topics Covered
+## Progress
 
-- Process Management
-- Process Synchronization
-- Signals
-- Pipes
-- Shared Memory
-- Message Queues
-- Semaphores
-- Threads
-- TCP Socket Programming
-- UDP Socket Programming
+### Topic 1: Process Management
 
-Author: Dheenu
+- ✅ Program 1: Parent prints even numbers and child prints odd numbers using `fork()`
+
+---
+
+## Repository Structure
+
+```text
+linux_system_programming_lab/
+│
+├── README.md
+├── .gitignore
+└── 01_process_management/
+    └── 01_even_odd_fork.c
+```
+
+---
+
+## Author
+
+**Dheenu**
